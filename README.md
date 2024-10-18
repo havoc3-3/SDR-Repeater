@@ -1,7 +1,8 @@
 # SDR-Repeater
 
 An SDR-based repeater capable of cross-band signal repeating, supporting analog, digital, and encrypted modes.
-Dependencies
+
+# Dependencies
 
     GNU Radio (built from source)
     OsmoSDR (built from source)
